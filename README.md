@@ -1,0 +1,2 @@
+- 🌲 Percepción de seguridad en el Parque La Carolina: https://omscgr.github.io/Percepcion-de-seguridad-La-Carolina/
+- 💻 Notebook: https://colab.research.google.com/drive/1zbbo8a3t4wrLZtQtMFLoSX0Otgwtnrc3?usp=sharing
